@@ -73,7 +73,7 @@ WSGI_APPLICATION = 'RentaCar.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
-
+#comentario sumbit
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
